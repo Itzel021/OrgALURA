@@ -1,17 +1,18 @@
 # Org con React
 
 ## Tabla de Contenidos
-- [🚀 Uso](#uso)
-- [✨ Características](#características)
-- [👥 Autores](#autores)
-- [📸 Capturas de Pantalla](#capturas-de-pantalla)
-- [🎬 Demo](#demo)
+- [Uso](#uso)
+- [Características](#características)
+- [Autores](#autores)
+- [Tecnologías](#tecnologias)
+- [Demo](#demo)
 
 ## 🚀 Uso
 **Org** es una plataforma que nos ayudará a organizar tanto las personas como los equipos de nuestra empresa. Es un
 proyecto que se realizo durante el curso de Front End de Alura Latam.
 
-![Banner de Org](https://github.com/Itzel021/Org-React/assets/83655742/9e21a558-71ee-4867-b587-7a490b586240)
+![Banner de org](https://github.com/Itzel021/OrgALURA/assets/83655742/ac315969-5323-4a96-b59f-1fdcb01f2bdb)
+
 
 ## ✨ Características
 - Formulario para agregar equipos y colaboradores.
@@ -23,10 +24,14 @@ proyecto que se realizo durante el curso de Front End de Alura Latam.
 - Diseño: Alura Latam
 - Desarrollo: Itzel Daniela Martínez Carrera
 
-## 📸 Capturas de Pantalla
+## 🖥️ Tecnologías
 
+- HTML
+- CSS
+- JavaScript
+- React
 
-## 🎬 Demo
-[Org Demo](https://org-alura-orcin.vercel.app)
+## ▶️  Demo.
+Puedes probar la aplicación en el siguiente enlace: [Org Demo](https://org-alura-orcin.vercel.app)
 
 ---
